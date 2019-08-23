@@ -56,6 +56,7 @@ in:
     - footer_services_cart
 - Add stoken parameter to remove voucher link
 - Add js sourcemaps [PR-40](https://github.com/OXID-eSales/wave-theme/pull/40)
+- Added a badge span to the counters at the header [PR-44](https://github.com/OXID-eSales/wave-theme/pull/44)
     
 ### Fixed
 - Fix "Brands" slider size when no brands available [PR-32](https://github.com/OXID-eSales/wave-theme/pull/32)
